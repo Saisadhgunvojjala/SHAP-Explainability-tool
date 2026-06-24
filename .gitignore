@@ -1,0 +1,13 @@
+﻿.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+saved_models/
+reports/
+.streamlit/secrets.toml
+*.pkl
+*.joblib
+.DS_Store
+config.yaml
+.env
